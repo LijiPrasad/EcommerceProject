@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+.heading
+{
+	font-size:25px;
+	color:yellow;
+	margin-left:150px;
+	justify-content:space-between;
+}
+table
+{
+	justify-content:space-between;
+	font-size:20px;
+	margin-left:40px;
+	
+}
+
+th
+{
+	font-size:20px;
+	justify-content:space-between;
+}
